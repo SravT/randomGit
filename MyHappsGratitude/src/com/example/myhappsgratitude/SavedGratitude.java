@@ -19,16 +19,17 @@ public class SavedGratitude extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		Intent intent = getIntent();
-		SharedPreferences grats = getSharedPreferences("grats", MODE_APPEND);
-		Editor edit = grats.edit();
+		String message = intent.getStringExtra(Gratitude.EXTRA_MESSAGE);
+		//SharedPreferences grats = getSharedPreferences("grats", MODE_APPEND);
+		//Editor edit = grats.edit();
 		setContentView(R.layout.activity_saved_gratitude);
 		tv1 = (TextView)findViewById(R.id.Grat_ID);
 		tv1.setText(R.string.GratitudeString);
-		tv1.setText(40);
+		tv1.setTextSize(25);
 		tv2 = (TextView)findViewById(R.id.TEXT_STATUS_ID);
-		String message = intent.getStringExtra(Gratitude.EXTRA_MESSAGE);
-		edit.putString("message",message);
-		edit.commit();
+		
+		//edit.putString("message",message);
+		//edit.commit();
 		tv2.setText(message);
 
 		
