@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gratitude</string>
+    <string name="action_settings">Settings</string>
+    <string name="savebutton">Save</string>
+    <string name="Bulletpt1">- This app is designed to take charge of your own happiness. \n \n- Try listing/thinking of your goals before   using this app. \n \n - Please keep track of tangible work such as frequencies of mistakes as you will be more positive using these proven techniques, but your work may not show any change</string>
+    <string name="Bulltetpt2">Try listing/thinking of your goals before using this app.</string>
+    <string name="Bulletpt3">Please keep track of tangible work such as frequencies of mistakes as you will be more positive using these proven techniques, but your work may not show any change
+    This app is designed to take charge of your own happiness.</string>
+    <string name="title_activity_slide_show">SlideShow</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_gratitude">Gratitude</string>
+    <string name="Message">Think about your day and all of the things in it that make you feel grateful. Take some time and write them down.</string>
+    <string name="edit_content">What are you grateful for?</string>
+    <string name="start_button">Start</string>
+    <string name="title_activity_saved_gratitude">SavedGratitude</string>
+    <string name="GratitudeString">What you have been grateful for: </string>
+
+</resources>

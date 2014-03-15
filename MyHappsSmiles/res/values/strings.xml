@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smiles</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_start">Start</string>
+    <string name="Bulletpt1">- This app is designed to take charge of your own happiness. \n \n- Try listing/thinking of your goals before   using this app. \n \n - Please keep track of tangible work such as frequencies of mistakes as you will be more positive using these proven techniques, but your work may not show any change</string>
+    <string name="Bulltetpt2">Try listing/thinking of your goals before using this app.</string>
+    <string name="Bulletpt3">Please keep track of tangible work such as frequencies of mistakes as you will be more positive using these proven techniques, but your work may not show any change
+    This app is designed to take charge of your own happiness.</string>
+    <string name="title_activity_slide_show">SlideShow</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
